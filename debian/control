@@ -23,7 +23,7 @@ Build-Depends:
  python-pytest (>= 2.9.0) <!nocheck>,
  python-setuptools (>= 11.3),
  python-six (>= 1.4.1~),
- python-sphinx-rtd-theme <!nodoc>,
+ python3-sphinx-rtd-theme <!nodoc>,
  python-tz <!nocheck>,
  python3-asn1crypto (>= 0.21.0~),
  python3-cffi (>= 1.7~),
